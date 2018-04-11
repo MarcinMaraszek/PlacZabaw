@@ -3,4 +3,4 @@ zajêcia z GIT
 test konfliktu
 drugi commit
 
-Marcin Maraszek
+Marcin Maraszek to ma³y ptaszek
